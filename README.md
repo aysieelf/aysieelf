@@ -1,6 +1,6 @@
 # 🐾 Hi there! I'm Aysel!
 
-## ✨ About Me
+## About Me
 Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to UFO tracking apps (coming soon), I love bringing fun and unique ideas to life. ✨
 
 🎮 Co-creator of:
@@ -9,7 +9,7 @@ Hey! I'm a creative coder with a passion for building meaningful projects! From 
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
-## 💫 Current Adventures
+## What I'm Working On
 - Solving puzzles on HackerRank and LeetCode
 - Building new APIs
 - Learning something new every day

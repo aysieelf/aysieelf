@@ -9,7 +9,7 @@ Hey! I'm a creative coder with a passion for building meaningful projects! From 
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
-## 💫 Current Adventures:
+## 💫 Current Adventures
 - Solving puzzles on HackerRank and LeetCode
 - Building new APIs
 - Learning something new every day

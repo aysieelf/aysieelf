@@ -3,7 +3,7 @@
 ## ✨ About Me
 Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to UFO tracking apps (coming soon!), I love bringing fun and unique ideas to life. ✨
 
-🎮 Co-Creator of:
+🎮 Co-creator of:
 - 🐱 Kitten Strike API - Because why should gaming be boring?
 - 💭 Gossip Forum - Where tea is virtually spilled!
 

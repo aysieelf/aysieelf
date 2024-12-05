@@ -1,4 +1,4 @@
-# 🐾 Meow there! I'm Aysel!
+# 🐾 Hi there! I'm Aysel!
 
 ## ✨ About Me
 Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to UFO tracking apps (coming soon!), I love bringing fun and unique ideas to life. ✨

@@ -4,19 +4,19 @@
 Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to UFO tracking apps (coming soon!), I love bringing fun and unique ideas to life. ✨
 
 🎮 Co-creator of:
-- 🐱 Kitten Strike API - Because why should gaming be boring?
-- 💭 Gossip Forum - Where tea is virtually spilled!
+- Kitten Strike API - Because why should gaming be boring?
+- Gossip Forum - Where tea is virtually spilled!
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
 ## 💫 Current Adventures:
-- 🧩 Solving puzzles on HackerRank and LeetCode
-- 🚀 Building new APIs
-- 🌱 Learning something new every day
-- 🐱 Petting cats for inspiration
+- Solving puzzles on HackerRank and LeetCode
+- Building new APIs
+- Learning something new every day
+- Petting cats for inspiration
 
-## 📫 Let's Connect!
-- 📧 Drop me a line at aysie.elf@gmail.com
+## 📧 Let's Connect!
+ Drop me a line at aysie.elf@gmail.com
 
 ## 🌈 I craft digital magic using:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

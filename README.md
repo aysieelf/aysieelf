@@ -31,6 +31,6 @@ Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKarada
 
 
 ---
-*"In a world full of bugs, be the debugger you wish to see! ✨"*
+*"In a world full of bugs, be the debugger you wish to see! 🐝"*
 
 [![](https://visitcount.itsvg.in/api?id=aysieelf&icon=0&color=1)](https://visitcount.itsvg.in)

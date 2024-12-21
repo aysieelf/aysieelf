@@ -10,7 +10,7 @@ Hey! I'm a creative coder with a passion for building meaningful projects! From 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
 ## What I'm Working On
-- Solving puzzles on HackerRank and LeetCode
+- Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
 - Creating games: Check out my [Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
 - Learning something new every day
 - Petting cats for inspiration

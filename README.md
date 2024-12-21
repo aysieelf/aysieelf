@@ -4,8 +4,8 @@
 Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to Kitten Strike tournaments, I love bringing fun and unique ideas to life. 
 
 🎮 Co-creator of:
-- Kitten Strike API - Because why should gaming be boring?
-- Gossip Forum - Where tea is virtually spilled!
+- [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) - Because why should gaming be boring?
+- [Gossip Forum](https://github.com/A63-Forum-System-API/Forum_System_API) - Where tea is virtually spilled!
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 

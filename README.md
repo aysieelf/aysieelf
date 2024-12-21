@@ -11,7 +11,7 @@ Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKarada
 
 ## What I'm Working On
 - Solving puzzles on HackerRank and LeetCode
-- Building new APIs
+- Creating games: Check out my ![Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
 - Learning something new every day
 - Petting cats for inspiration
 

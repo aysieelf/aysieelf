@@ -9,7 +9,7 @@ I craft 2D games that blend cozy aesthetics with philosophical depth and subtle 
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
-## 🐾 Latest news:
+## 🐾 Latest News
 Just finished my second game - a cute little [Snake](https://github.com/aysieelf/Snake) built with Python & PyGame. 🐍
 
 What I learned while making this: 

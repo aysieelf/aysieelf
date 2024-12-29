@@ -1,15 +1,25 @@
 # 🐾 Hi there! I'm Aysel!
 
 ## About Me
-Hey! I'm a creative coder with a passion for building meaningful projects! From gossip forums to Kitten Strike tournaments, I love bringing fun and unique ideas to life. 
+Fresh graduate of Telerik Academy's Alpha Python Track, where my team project [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) won 🏆 first place.
 
-🎮 Co-creator of:
-- [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) - Because why should gaming be boring?
-- [Gossip Forum](https://github.com/A63-Forum-System-API/Forum_System_API) - Where tea is virtually spilled!
+I craft 2D games that blend cozy aesthetics with philosophical depth and subtle existential themes. My games aim to create comfortable spaces where players can explore deeper questions about reality and consciousness through witty dialogue and delightfully absurd situations. 
+
+🚀 Open to junior developer positions where I can contribute my unique blend of creativity and technical skills while continuing to grow in the field.
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
-## What I'm Working On
+## 👩🏻‍💻 Latest news:
+Just finished my second game - a cute little [Snake](https://github.com/aysieelf/Snake) built with Python & PyGame. 🐍
+
+What I learned while making this: 
+- How particles work in PyGame 
+- Grid-based movement
+- Game states 
+
+Super proud of how it turned out, especially the snake's tiny adorable eyes 👀 
+
+## What I'm Currently Working On
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
 - Creating games: Check out my [Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
 - Learning something new every day
@@ -26,6 +36,7 @@ Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKarada
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+![PyGame](https://img.shields.io/badge/pygame-1.9.3%2B%2F2.0%2B-orange)
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white)
 

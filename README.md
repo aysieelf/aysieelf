@@ -1,4 +1,4 @@
-# 🐾 Hi there! I'm Aysel!
+# 👩🏻‍💻 Hi there! I'm Aysel!
 
 ## About Me
 Fresh graduate of Telerik Academy's Alpha Python Track, where my team project [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) won 🏆 first place.
@@ -9,7 +9,7 @@ I craft 2D games that blend cozy aesthetics with philosophical depth and subtle 
 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
-## 👩🏻‍💻 Latest news:
+## 🐾 Latest news:
 Just finished my second game - a cute little [Snake](https://github.com/aysieelf/Snake) built with Python & PyGame. 🐍
 
 What I learned while making this: 
@@ -19,7 +19,7 @@ What I learned while making this:
 
 Super proud of how it turned out, especially the snake's tiny adorable eyes 👀 
 
-## What I'm Currently Working On
+## 🐾 What I'm Currently Working On
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
 - Creating games: Check out my [Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
 - Learning something new every day

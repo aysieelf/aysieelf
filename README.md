@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hi there! I'm Aysel!
 
-## about me
+## 🐾 about me
 Fresh graduate of Telerik Academy's Alpha Python Track, where my team project [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) won 🏆 first place.
 
 I craft 2D games that blend cozy aesthetics with philosophical depth and subtle existential themes. My games aim to create comfortable spaces where players can explore deeper questions about reality and consciousness through witty dialogue and delightfully absurd situations. 
@@ -25,7 +25,7 @@ Super proud of how it turned out, especially the snake's tiny adorable eyes 👀
 - Learning something new every day
 - Petting cats for inspiration
 
-## 📧 let's connect
+## 🐾 let's connect
  Drop me a line at aysie.elf@gmail.com
 
 ## 🌈 i craft digital magic using these

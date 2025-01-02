@@ -22,7 +22,7 @@ Super proud of how it turned out, especially the snake's tiny adorable eyes 👀
 ## 🐾 what i'm currently working on
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
 - Creating games: Check out my [Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
-- Learning something new every day
+- Learning JavaScript
 - Petting cats for inspiration
 
 ## 🐾 let's connect

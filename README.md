@@ -39,7 +39,8 @@ Super proud of how it turned out, especially the snake's tiny adorable eyes 👀
 
 ## 🐾 my stats
 ![My overall stats](https://github-readme-streak-stats.herokuapp.com/?user=aysieelf&theme=radical)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysieelf&layout=compact&theme=radical&card_width=200"/>
+
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysieelf&layout=compact&theme=radical&card_width=300"/>
 
 
 

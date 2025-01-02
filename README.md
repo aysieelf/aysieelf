@@ -38,9 +38,10 @@ Super proud of how it turned out, especially the snake's tiny adorable eyes 👀
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🐾 my stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysieelf&layout=compact&theme=radical&width=1000)
-
 ![My overall stats](https://github-readme-streak-stats.herokuapp.com/?user=aysieelf&theme=radical)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysieelf&layout=compact&theme=radical&card_width=200"/>
+
+
 
 ## 🐾 let's connect
 

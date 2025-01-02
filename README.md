@@ -3,7 +3,7 @@
 ## 🐾 about me
 Fresh graduate of Telerik Academy's Alpha Python Track, where my team project [Kitten Strike API](https://github.com/Alpha63-Match-Score/Match_Score) won 🏆 first place.
 
-I craft 2D games that blend cozy aesthetics with philosophical depth and subtle existential themes. My games aim to create comfortable spaces where players can explore deeper questions about reality and consciousness through witty dialogue and delightfully absurd situations. 
+I craft 2D games that blend cozy aesthetics with philosophical depth and subtle existential themes.
 
 🚀 Open to junior developer positions where I can contribute my unique blend of creativity and technical skills while continuing to grow in the field.
 
@@ -25,21 +25,26 @@ Super proud of how it turned out, especially the snake's tiny adorable eyes 👀
 - Learning JavaScript
 - Petting cats for inspiration
 
-## 🐾 let's connect
- Drop me a line at aysie.elf@gmail.com
-
 ## 🌈 i craft digital magic using these
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![PyGame](https://img.shields.io/badge/pygame-1.9.3%2B%2F2.0%2B-orange)
-![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white)
+## 🐾 my stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysieelf&layout=compact&theme=radical&width=1000)
 
+![My overall stats](https://github-readme-streak-stats.herokuapp.com/?user=aysieelf&theme=radical)
 
+## 🐾 let's connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysieelf/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysie.elf@gmail.com)
 ---
 *"In a world full of bugs, be the debugger you wish to see! 🐝"*

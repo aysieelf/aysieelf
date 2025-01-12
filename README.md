@@ -28,7 +28,8 @@ What I used:
 ## 🐾 what i'm currently working on
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
 - Creating games: Check out my [Game Dev Journey](https://github.com/aysieelf/Game-Dev-Journey)
-- Learning JavaScript
+- Creating my Game Dev Portfolio so that you can try out my games for yourself: [AysieElf Games](https://github.com/aysieelf/AysieElf-Games)
+- Learning JavaScript, Godot, Phaser.js
 - Petting cats for inspiration
 
 ## 🌈 i craft digital magic using these

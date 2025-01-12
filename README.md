@@ -54,6 +54,7 @@ What I used:
 
 **Game Development:**
 ![Pygame](https://img.shields.io/badge/Pygame-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 ## 🐾 my stats
 

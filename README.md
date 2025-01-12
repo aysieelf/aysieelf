@@ -23,7 +23,7 @@ What I used:
 - Aseprite for designing the sprites, screens, buttons
 - LogicPro for editing the sound fx
 
-![Demo](gameplay.gif)
+<img src="gameplay.gif" width="500" height="372" alt="Demo">
 
 ## 🐾 what i'm currently working on
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)

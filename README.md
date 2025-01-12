@@ -10,14 +10,20 @@ I craft 2D games that blend cozy aesthetics with philosophical depth and subtle 
 Check out my [resume](https://github.com/aysieelf/aysieelf/blob/main/AyselKaradayiResume.pdf) for the formal stuff. 📝
 
 ## 🐾 latest news
-Just finished my second game - a cute little [Snake](https://github.com/aysieelf/Snake) built with Python & PyGame. 🐍
+Just finished my [Sleepy Fox](https://github.com/aysieelf/Sleepy-Fox) game! 🦊 The sleepy clouds float gently as they help our tired fox bounce between them in this calm, peaceful version of Pong (until you get to level 8, then it gets crazy!).
 
-What I learned while making this:
-- How particles work in PyGame 
-- Grid-based movement
-- Game states 
+What I learned while making this: 
+- Designing and creating sprites
+- Building a custom physics system with velocity management 
+- Creating an AI opponent with adjustable difficulty 
+- Implementing a complete sound system with ambient music 
 
-Super proud of how it turned out, especially the snake's tiny adorable eyes 👀 
+What I used:
+- Python with PyGame
+- Aseprite for designing the sprites, screens, buttons
+- LogicPro for editing the sound fx
+
+![Demo](gameplay.gif)
 
 ## 🐾 what i'm currently working on
 - Solving puzzles on [HackerRank](https://github.com/aysieelf/HackerRank-Solutions) and [LeetCode](https://github.com/aysieelf/LeetCode-Solutions)
